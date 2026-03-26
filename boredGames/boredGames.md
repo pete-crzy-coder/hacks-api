@@ -8,31 +8,31 @@ After ~2.5 years of development, learning, and refining, BoredGames features a p
 
 ## ✨ Features
 
-- Floating & Draggable UI: Click and drag the header to move the game window anywhere on your screen so it's never in the way of your actual work.
+- **Floating & Draggable UI**: Click and drag the header to move the game window anywhere on your screen so it's never in the way of your actual work.
 
-- Stealth Mode (Boss Key): Instantly hide or show the entire interface with a single keyboard shortcut.
+- **Stealth Mode (Boss Key)**: Instantly hide or show the entire interface with a single keyboard shortcut.
 
-- Kill Switch: Need to remove evidence quickly? Completely destroy the UI and wipe the injected styles from the page instantly.
+- **Kill Switch**: Need to remove evidence quickly? Completely destroy the UI and wipe the injected styles from the page instantly.
 
-- Custom Game Library: Don't just play the defaults! Click the `+` button to add any Scratch project to your library using its Project ID.
+- **Custom Game Library**: Don't just play the defaults! Click the `+` button to add any Scratch project to your library using its Project ID.
 
-- Persistent Storage: Your custom-added games are saved locally to your browser (localStorage), so they'll be there waiting for you the next time you load the script on that site.
+- **Persistent Storage**: Your custom-added games are saved locally to your browser (localStorage), so they'll be there waiting for you the next time you load the script on that site.
 
-- Modern Aesthetic: Features a clean, dark-mode design with smooth hover effects, custom shadows, and the Bogrod (JK! 0xProto NerdFont) typeface.
+- **Modern Aesthetic**: Features a clean, dark-mode design with smooth hover effects, custom shadows, and the Bogrod (JK! 0xProto NerdFont) typeface.
 
 ## ⌨️ Controls & Hotkeys
 
-- `Ctrl + Y` : Toggle Visibility (Quickly hide/show the overlay)
+- `Ctrl + Y` : **Toggle Visibility** (Quickly hide/show the overlay)
 
-- `Ctrl + X` : Kill Switch (Completely remove the overlay and styles from the DOM)
+- `Ctrl + X` : **Kill Switch** (Completely remove the overlay and styles from the DOM)
 
-- `Drag Header` : Move the window around the screen
+- **Drag Header** : Move the window around the screen
 
-- `+` Button : Add a new game to the dropdown menu. You will be prompted for:
+- `+` **Button** : Add a new game to the dropdown menu. You will be prompted for:
 
-  1. The Scratch Project ID (e.g., 60917032)
+  1. The Scratch **Project ID** (e.g., 60917032)
 
-  2. The Label/Name for the game
+  2. The **Label/Name** for the game
 
 ## 🚀 How It Works
 
@@ -48,4 +48,4 @@ To avoid cluttering the global namespace and bypassing some basic security check
 
 - Platformer (ID: 612229554)
 
-Created by craz4c0mput3r
+*Created by craz4c0mput3r*
